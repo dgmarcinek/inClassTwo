@@ -1,87 +1,87 @@
 html {
-	font-family: sans-serif;
+  font-family: sans-serif;
 }
 
 h1 {
-	text-align: center;
-	font-size: 300%;
-	-webkit-transition: font-size 3s, color 3s;
+  text-align: center;
+  font-size: 300%;
+  -webkit-transition: font-size 3s, color 3s;
 }
 
 h1:hover {
   cursor: crosshair;
-	font-size: 350%;
-	color: pink;
+  font-size: 350%;
+  color: pink;
 }
 
 h2 {
-	float:left;
-	border: solid blue 3px;
-	padding: 1%;
-	margin-bottom: 10px;
-	font-size: 200%;
+  float:left;
+  border: solid blue 3px;
+  padding: 1%;
+  margin-bottom: 10px;
+  font-size: 200%;
 }
 
 ul {
-	clear: both;
+  clear: both;
 }
 
 li {
-	font-size: 150%;
+  font-size: 150%;
 }
 
 #t2 {
-	float: left;
-	background-color: cyan;
-	-webkit-transition: border 2s, background-color 2s;
+  float: left;
+  background-color: cyan;
+  -webkit-transition: border 2s, background-color 2s;
 }
 
 #t2:hover {
-	border: solid black 5px;
-	background-color: orange;
+  border: solid black 5px;
+  background-color: orange;
 }
 
 #t3 {
-	clear: both;
-	float: left;
-	width: 100px;
-	height: 30px;
-	color: white;
-	font-size: 10px;
-	-webkit-transition: width 1s, background-color 1s, font-size 1s, color 1s;
+  clear: both;
+  float: left;
+  width: 100px;
+  height: 30px;
+  color: white;
+  font-size: 10px;
+  -webkit-transition: width 1s, background-color 1s, font-size 1s, color 1s;
 }
 
 #t3:hover {
-	width: 400px;
-	height: 50px;
-	background-color: AntiqueWhite;
-	color: black;
-	font-size: 250%;
+  width: 400px;
+  height: 50px;
+  background-color: AntiqueWhite;
+  color: black;
+  font-size: 250%;
 }
 
 #l1 {
-	clear: both;
-	float: left;
+ clear: both;
+  float: left;
 }
 
 #l2 {
   clear:both;
-	float:left;
+  float:left;
 }
 
 #t4 {
-	clear: both;
-	float: left;
-	-webkit-transition: font-family 3s, font-style 3s;
+  clear: both;
+  float: left;
+  -webkit-transition: font-family 3s, font-style 3s;
 }
 
 #t4:hover {
-	font-family: Georgia;
-	font-style: italic;
+  font-family: Georgia;
+  font-style: italic;
 }
 
 button {
-	clear: both;
-	float: left;
-	margin: 8px;
+  clear: both;
+  float: left;
+  margin: 8px;
 }
