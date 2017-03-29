@@ -1,0 +1,18 @@
+#penguin {
+	width: 180px;
+	height: 240px;
+	margin-left: 100px;
+	margin-top: 50px;
+	animation-name: movediag;
+	animation-duration: 3s;
+	animation-iteration-count: 2;
+	animation-direction: alternate;
+}
+
+@keyframes movediag {
+	from {margin-left: 100px;}
+	to {margin-left: 1100px;}
+	
+	from {margin-top: 50px;}
+	to {margin-top: 350px;}
+}
