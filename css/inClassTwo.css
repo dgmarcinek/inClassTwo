@@ -9,7 +9,7 @@ h1 {
 }
 
 h1:hover {
-	cursor: crosshair;
+  cursor: crosshair;
 	font-size: 350%;
 	color: pink;
 }
